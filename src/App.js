@@ -15,12 +15,13 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Naveen's git learning experience
 
           <p>
             i am adding a paragraph here. i hope i did right. i have created new user requirements and added a new branch 
             
           </p>
+          
         </a>
       </header>
     </div>
